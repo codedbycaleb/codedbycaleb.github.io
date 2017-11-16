@@ -1,0 +1,44 @@
+body{
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+background-color: #506b2e;
+color: #b5e07d;
+}
+h1{
+    color: #91ba5b;
+    text-align:center;
+    font-family: 'Quicksand', sans-serif;
+    padding:20px 10px 1px 10px;
+}
+h2{
+    color:#96bf61;
+    text-align:center;
+    font-family: 'Quicksand', sans-serif;
+}
+p{
+    text-align:center;
+    font-family: 'Prompt', sans-serif;
+}
+img{
+    border:10px groove;
+    border-color:#78a33f;
+}
+li{
+    text-align: center;
+    display: inline;
+    padding:0px 10px 0px 10px;
+}
+header{
+    background-size:cover;
+    background:url("image/forest.jpg")
+}
+ul{
+    text-align: center;
+    padding:0px 10px 0px 10px;
+    background-color: #070B01
+}
+a{
+    color:#78a33f;
+}
