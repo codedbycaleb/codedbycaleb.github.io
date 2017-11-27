@@ -18,7 +18,7 @@ h2{
     font-family: 'Quicksand', sans-serif;
 }
 p{
-    text-align:center;
+    padding:50px;
     font-family: 'Prompt', sans-serif;
 }
 img{
@@ -41,8 +41,4 @@ ul{
 }
 a{
     color:#78a33f;
-}
-article{
-width:500px;
-padding:50px;
 }
